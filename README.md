@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jiaming Luo 👋
 
-<!--
-**Jiaming-Luo/Jiaming-Luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc in Data Science** candidate at Lingnan University, Hong Kong.  
+🛡️ Passionate about **Web3 Security, Smart Contract Auditing, and Blockchain Data Analytics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Web3 & Security**: Solidity, Foundry, Smart Contract Vulnerability Analysis (Reentrancy, Access Control, DoS)
+- **Data & Dev**: Python, SQL, Data Mining, Database Management (MySQL)
+- **Languages**: Native Mandarin, Fluent Cantonese, Professional English
+
+---
+
+### 📂 Active Learning & Security Projects
+- 🛡️ **[Smart Contract Security Practice](./)**: Hands-on smart contract security reviews, PoC development using Foundry, and standardized audit reports (Cyfrin Updraft).
+- 📊 **[Blockchain Data Analysis](./)**: SQL & Python scripts for on-chain analytics and threat intelligence.
+
+---
+
+📫 **Get in Touch**:  
+- **Email**: l673467512@gmail.com
+- **Location**: Shenzhen / Hong Kong 
