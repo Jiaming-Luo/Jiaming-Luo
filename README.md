@@ -12,26 +12,29 @@ I use this GitHub to document selected data, AI, and Web3 projects with an empha
 
 ## 🛠 Skills
 
-### Data & Programming
+### Data Analytics
 - Python
-- SQL
+- SQL / MySQL
 - Excel
-- MySQL
-- Data Mining
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning & Reconciliation
+- Dashboard Development
 
-### AI / Machine Learning Projects
+### AI / Machine Learning
 - PyTorch
 - YOLOv8
 - ByteTrack
 - Reinforcement Learning
 
-### Blockchain
+### Web3 & Smart Contracts
 - Solidity
 - Foundry
 - OpenZeppelin
+- Smart Contract Testing
 - Ethereum Fundamentals
-
----
+- Smart Contract Security Fundamentals
 
 ## 📂 Selected Projects
 
