@@ -1,10 +1,12 @@
 # Hi, I'm Jiaming Luo 👋
 
-🎓 MSc in Data Science candidate at Lingnan University, Hong Kong, with a background in Computer Science.
+🎓 MSc in Data Science candidate at Lingnan University, Hong Kong.
 
-📊 Interested in **Data Analytics, FinTech, AI-assisted problem solving, and Blockchain / Digital Assets**.
+📊 Focused on **Data Analytics and data-driven problem solving**, with hands-on experience in Python, SQL, Excel, Power BI, data reconciliation, and analytical dashboard development.
 
-I have experience in high-volume data operations, Excel-based reconciliation, and enterprise workflow configuration, alongside hands-on Data/AI and blockchain projects.
+⛓️ Alongside my data background, I am building practical experience in **Web3 and Smart Contract Security**, including Solidity, Foundry, smart contract testing, and common vulnerability patterns.
+
+I use this GitHub to document selected data, AI, and Web3 projects with an emphasis on practical implementation and reproducible results.
 
 ---
 
